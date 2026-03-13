@@ -26,11 +26,7 @@ Realizado para uso demostrativo de un cliente.
 - Organización de carpetas
 - Manipulación del DOM basico con JavaScript
 
-*Preview
-
-
-
-## Demo
+* Demo
 
 Podés ver el proyecto funcionando aquí:
 
