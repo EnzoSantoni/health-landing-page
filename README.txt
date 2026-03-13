@@ -27,7 +27,6 @@ Realizado para uso demostrativo de un cliente.
 - Manipulación del DOM basico con JavaScript
 
 * Demo
-
 Podés ver el proyecto funcionando aquí:
 
-https://tuusuario.github.io/healthcare-landing-page
+https://enzosantoni.github.io/health-landing-page/
