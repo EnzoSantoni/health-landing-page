@@ -32,4 +32,4 @@ Podés ver el proyecto funcionando aquí:
 https://enzosantoni.github.io/health-landing-page/
 
 * Preview
-![Preview](assets/preview-1.png)
+![Preview](assets/preview/preview-1.png)
