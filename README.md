@@ -1,35 +1,27 @@
-# Healthcare Landing Page
+# Health Landing Page
 
-Landing page responsive para un servicio de cobertura médica.
+## Description
+Landing page created for a social media services business.
 
-El objetivo del proyecto fue practicar estructura semántica en HTML, diseño responsive con CSS y pequeñas interacciones con JavaScript.
-Realizado para uso demostrativo de un cliente.
+The goal of the project was to showcase available service plans in a simple and clear mobile-first interface.
 
-## Tecnologías
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-
-## Funcionalidades
-
-- Slider de planes de cobertura
-- Sección de preguntas frecuentes interactiva
-- Animaciones CSS para prestadores
-- Modal informativo para versión desktop
-- Botón flotante de contacto por WhatsApp
-
- ## Características
-
-- Diseño mobile-first
-- Uso de HTML semántico
-- Organización de carpetas
-- Manipulación del DOM basico con JavaScript
-
-## Demo
-Podés ver el proyecto funcionando aquí:
-
+## Live Demo
 https://enzosantoni.github.io/health-landing-page/
+
+## Technologies
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+## What I Learned
+- Mobile-first design
+- Layout structuring with Bootstrap
+- Basic JavaScript interaction
+- Deploying a static site with GitHub Pages
+
+## Notes
+This project was optimized for mobile devices.
 
 ## Preview
 ![Preview](assets/preview/preview-1.png)
