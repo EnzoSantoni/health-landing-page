@@ -3,7 +3,7 @@
 ## Description
 Landing page created for a social media services business.
 
-The goal of the project was to showcase available service plans in a simple and clear mobile-first interface.
+This landing page was built for a social media services business to showcase available plans and services in a simple and clear mobile-first interface.
 
 ## Live Demo
 https://enzosantoni.github.io/health-landing-page/
