@@ -5,13 +5,13 @@ Landing page responsive para un servicio de cobertura médica.
 El objetivo del proyecto fue practicar estructura semántica en HTML, diseño responsive con CSS y pequeñas interacciones con JavaScript.
 Realizado para uso demostrativo de un cliente.
 
-*Tecnologías
+* Tecnologías
 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
 
-*Funcionalidades
+* Funcionalidades
 
 - Slider de planes de cobertura
 - Sección de preguntas frecuentes interactiva
@@ -19,7 +19,7 @@ Realizado para uso demostrativo de un cliente.
 - Modal informativo para versión desktop
 - Botón flotante de contacto por WhatsApp
 
-*Características
+* Características
 
 - Diseño mobile-first
 - Uso de HTML semántico
@@ -30,3 +30,6 @@ Realizado para uso demostrativo de un cliente.
 Podés ver el proyecto funcionando aquí:
 
 https://enzosantoni.github.io/health-landing-page/
+
+* Preview
+![Preview](assets/preview-1.png)
