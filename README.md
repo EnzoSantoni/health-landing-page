@@ -1,9 +1,9 @@
 # Health Landing Page
 
 ## Description
-Landing page created for a social media services business.
+Landing page created for a healthcare/ health plans services business.
 
-This landing page was built for a social media services business to showcase available plans and services in a simple and clear mobile-first interface.
+This landing page was built to showcase available plans and services in a simple and clear mobile-first interface.
 
 ## Live Demo
 https://enzosantoni.github.io/health-landing-page/
